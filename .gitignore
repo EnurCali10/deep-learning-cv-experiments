@@ -1,0 +1,23 @@
+# Model dosyaları
+*.h5
+*.keras
+*.pb
+saved_model/
+
+# Veri setleri
+chest_xray/
+datasets/
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
